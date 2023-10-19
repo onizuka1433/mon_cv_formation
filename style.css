@@ -129,3 +129,23 @@ text-align: left;
 letter-spacing: 1px;
 padding-left: 5px;
 }
+
+.container__footer{
+  background-color: #782221;
+  padding: 20px;
+  text-align: center;
+
+}
+
+.container__footer__rs-icones{
+  margin: 0 10px;
+  color: white;
+  width: 30px;
+  height: 30px;
+}
+
+.container__footer p{
+  color: white;
+  font-size: 14px;
+}
+
